@@ -1,1 +1,1 @@
-https://AciaKr.github.io/rsschool-cv/
+https://aciakr.github.io/rsschool-cv/cv
