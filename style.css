@@ -153,15 +153,15 @@ body {
 }
 
 .contacts-item:nth-child(1):before {
-  background-image: url(/assets/icon/phone-504.svg);
+  background-image: url(./assets/icon/phone-504.svg);
 }
 
 .contacts-item:nth-child(2):before {
-  background-image: url(/assets/icon/mail-5903.svg);
+  background-image: url(./assets/icon/mail-5903.svg);
 }
 
 .contacts-item:nth-child(3):before {
-  background-image: url(/assets/icon/discord-logo-8233.svg);
+  background-image: url(./assets/icon/discord-logo-8233.svg);
 }
 
 .contacts-item:before {
@@ -205,7 +205,7 @@ body {
   top: 0;
   width: 27px;
   height: 27px;
-  background-image: url(/assets/icon/github-logo-6531.svg);
+  background-image: url(./assets/icon/github-logo-6531.svg);
   background-repeat: no-repeat;
   background-size: contain;
 }
