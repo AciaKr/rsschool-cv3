@@ -32,7 +32,7 @@ preloadImages("logo.jpg", "header_bg.jpg", "main_bg.jpg");
 Not yet
 
 ## Education and courses
-1. **University:** 
+1. **University:**
 * Belarusian National Pedagogical University, *psychologist*
 * Belarusian National Technical University, *WEB-design, Computer Science (2006)*
 2. **Udemy**
@@ -41,5 +41,5 @@ Not yet
 
 ## English
 * Russian - native speaker
-* English - A2 (in process…)
+* English - B1 (in process…)
 
